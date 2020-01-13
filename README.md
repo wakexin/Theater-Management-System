@@ -33,6 +33,24 @@ The software development part is conducted by Rongguo Liang.
 * **Kexin Wang** - Database Design and implementation part
 * **Rongguo Liang** - software development part
 
+
+## Database
+
+Kexin Wang analyzed the course project requirement and needs. Then Kexin designed relevant Information flow diagram (IFD), Enhanced entity-relationship (EER) and constructed the database and its tables.
+
+- [Enhanced entity-relationship (EER) diagrams](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/CS4400Fall2019EERKey.pdf)
+
+ ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/EER.png)
+
+- [Schema](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/CS4400Fall2019SchemaKey.pdf)
+
+
+ ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/schema1.png)
+ 
+ ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/schema2.png)
+ 
+- [Database .sql file](https://github.com/LiangRongguo/atlantamovie/blob/master/sql/database.sql) - this file contains the database structure, data, stored procedures. Just simply run it in MySQL and get the database.
+
 ## Documentations
 
 Direct to project wiki page to download progress documentations in PDF. 
@@ -54,23 +72,6 @@ Direct to project wiki page to download progress documentations in PDF.
  ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/customerexploretheater.png)
 
  ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/visithistory.png)
-
-## Database
-
-Kexin Wang analyzed the course project requirement and needs. Then Kexin designed relevant Information flow diagram (IFD), Enhanced entity-relationship (EER) and constructed the database and its tables.
-
-- [Enhanced entity-relationship (EER) diagrams](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/CS4400Fall2019EERKey.pdf)
-
- ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/EER.png)
-
-- [Schema](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/CS4400Fall2019SchemaKey.pdf)
-
-
- ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/schema1.png)
- 
- ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/schema2.png)
- 
-- [Database .sql file](https://github.com/LiangRongguo/atlantamovie/blob/master/sql/database.sql) - this file contains the database structure, data, stored procedures. Just simply run it in MySQL and get the database.
 
 
 ## To do
