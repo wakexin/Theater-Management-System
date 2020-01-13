@@ -26,7 +26,8 @@ The design and structure for the database comes from ***CS4400 "Database System"
 
 ## Authors
 
-* **Rongguo Liang**
+* **Rongguo Liang** - software development part
+* **Kexin Wang** - Database Design and implementation part
 
 ## Documentations
 
