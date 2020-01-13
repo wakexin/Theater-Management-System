@@ -13,9 +13,11 @@ The project is aimed to build a theater database management system to improve th
 
 It is also an academic study project of full-stack system development, conducted by Rongguo Liang and Kexin Wang.  
 
-The design and structure for the database are designed and implemented by Kexin Wang.
+The **design and structure for the database** are designed and implemented by **Kexin Wang**.
 
 The software development part is conducted by Rongguo Liang.
+
+## Spring Boot & Relational Database System
 
 **This system** is powered by many powerful frameworks and third-party projects:
 
@@ -54,6 +56,8 @@ Direct to project wiki page to download progress documentations in PDF.
  ![image1](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/visithistory.png)
 
 ## Database
+
+Kexin Wang analyzed the course project requirement and needs. Then Kexin designed relevant Information flow diagram (IFD), Enhanced entity-relationship (EER) and constructed the database and its tables.
 
 - [Enhanced entity-relationship (EER) diagrams](https://github.com/wakexin/atlantamovie/blob/master/README-RESOURCE/CS4400Fall2019EERKey.pdf)
 
